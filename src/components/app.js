@@ -4,9 +4,10 @@ export default class App extends Component {
   render() {
     return (
       <div className='app'>
-        <h1>My first React</h1>
-        <h2>React Redux</h2>
+        <h1>Portfolio Vanessa Fernández</h1>
+        
       </div>
+    
     );
   }
 }
